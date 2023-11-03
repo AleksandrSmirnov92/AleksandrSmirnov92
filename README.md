@@ -1,8 +1,6 @@
+<img align="right" alt="js" width="400" src="https://giphy.com/gifs/code-developer-javascript-SvFocn0wNMx0iv2rYz"/>
 <h1 align="center">Hi 👋, I'm Aleksandr Smirnov</h1>
 <h3 align="center">Hello, I'm a beginner web developer. I like JavaScript.</h3>
-
-<p align="left"> <img src="https://giphy.com/embed/SvFocn0wNMx0iv2rYz" alt="aleksandrsmirnov92" /> </p>
-
 - My latest project [NotePad Canvas](https://github.com/AleksandrSmirnov92/notepad-canvas)
 
 - My latest project on Vue3 [Elevator](https://github.com/AleksandrSmirnov92/elevatorTestProjectVue)
