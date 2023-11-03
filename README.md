@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AleksandrSmirnov92?tab=repositories](https://github.com/AleksandrSmirnov92?tab=repositories)
 
-- 💬 Ask me about **react,vue**
+- 💬 Ask me about **JavaScript,TypeScript,React,Vue3-Composition Api**
 
 - 📫 How to reach me **ryan00@mail.ru**
 
