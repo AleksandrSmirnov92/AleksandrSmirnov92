@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Aleksandr Smirnov</h1>
 <h3 align="center">Hello, I'm a beginner web developer. I like JavaScript.</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*-tOldEbfjijxn9VqZeULqg.gif"/>
-- My latest project [NotePad Canvas](https://github.com/AleksandrSmirnov92/notepad-canvas)
+
+- My latest project [NotePadCanvas](https://github.com/AleksandrSmirnov92/notepad-canvas)
 
 - My latest project on Vue3 [Elevator](https://github.com/AleksandrSmirnov92/elevatorTestProjectVue)
 
