@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandr Smirnov</h1>
 <h3 align="center">Hello, I'm a beginner web developer. I like JavaScript.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandrsmirnov92&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandrsmirnov92" /> </p>
+<p align="left"> <img src="https://giphy.com/embed/SvFocn0wNMx0iv2rYz" alt="aleksandrsmirnov92" /> </p>
 
 - My latest project [NotePad Canvas](https://github.com/AleksandrSmirnov92/notepad-canvas)
 
