@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandr Smirnov</h1>
-<h3 align="center">Hello, I'm a beginner web developer. I like JavaScript.</h3>
+<h3 align="center">Hello, I'm a beginner web developer. I like JavaScript. 
+I want to show you my latest projects, I’m sure you’ll like them here &#11015;&#65039; &#11015;&#65039; &#11015;&#65039;  </h3> 
+
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*-tOldEbfjijxn9VqZeULqg.gif"/>
 
