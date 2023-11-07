@@ -10,13 +10,18 @@ I want to show you my latest projects, I’m sure you’ll like them here &#1101
 - My latest project on Vue3 [Elevator](https://github.com/AleksandrSmirnov92/elevatorTestProjectVue)<br/> Here I have implemented an elevator simulator The application can be expanded to add as many floors and elevators as you like. <br/>
   <img width="200" src="https://github.com/AleksandrSmirnov92/elevatorTestProjectVue/assets/83553039/ba5756db-2137-4e91-87a6-30c17645d1ca">
 
-- My latest project on Next.js [MeteorApp](https://github.com/AleksandrSmirnov92/meteorApp)
+- My latest project on Next.js [MeteorApp](https://github.com/AleksandrSmirnov92/meteorApp) <br/> Hello, this is an online service for monitoring and destroying dangerous asteroids based on NASA API data. Here you can see which asteroids will be closest to the earth, you can also calculate the distance to the earth in kilometers and in lunar orbits, all image sizes are adaptive to the size of asteroids, each asteroid has its own page with general information, as well as you you can order the destruction of the asteroid just as an additional functionality <br/>
+  <img width="200" src="https://github.com/AleksandrSmirnov92/meteorApp/assets/83553039/e79b6324-31fe-4171-8f94-f347110f0a0d">
 
-- My project on React [AirTickets](https://github.com/AleksandrSmirnov92/airTicketsProject) 
+- My project on React [AirTickets](https://github.com/AleksandrSmirnov92/airTicketsProject) <br/> Hello, on this site you can choose plane tickets. Which ones best suit your requirements. <br/>
+  <img width="200" src="https://github.com/AleksandrSmirnov92/airTicketsProject/assets/83553039/94f286de-a13d-4442-a2c5-c902b2d46e92">
 
-- My project on Vue3 [VueBlog](https://github.com/AleksandrSmirnov92/VueBlog) 
+- My project on Vue3 [VueBlog](https://github.com/AleksandrSmirnov92/VueBlog) <br/> Hello this is my vue3 project.Here you can register, add music, video and share posts with friends <br/>
+  <img width="200" src="https://github.com/AleksandrSmirnov92/VueBlog/assets/83553039/f148e422-5855-4554-8118-a8a8b3b78350">
 
-- My project on React [BlogCopyHabr](https://github.com/AleksandrSmirnov92/BlogCopyHabr)
+- My project on React [BlogCopyHabr](https://github.com/AleksandrSmirnov92/BlogCopyHabr) <br/> Hello this is my project on React and Node.js
+here you can register, ask questions on topics of interest to you related to programming, and you can also subscribe to sections that interest you <br/>
+  <img width="200" src="https://github.com/AleksandrSmirnov92/VueBlog/assets/83553039/a28d7661-04d5-46fd-b44f-7c47ff61f1a1">
 
 - 💬 Ask me about **JavaScript,TypeScript,React,Vue3-Composition Api**
 
