@@ -5,8 +5,8 @@ I want to show you my latest projects, I’m sure you’ll like them here &#1101
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*-tOldEbfjijxn9VqZeULqg.gif"/>
 
-- My latest project [NotePadCanvas](https://github.com/AleksandrSmirnov92/notepad-canvas)
-
+- My latest project  [NotePadCanvas](https://github.com/AleksandrSmirnov92/notepad-canvas) <br/> Here is a project using canvas. Here you can click to add a note, double-click to add an entry to a note, and you can also move notes to any area of ​​the screen.And also you can save and save files in json format. <br/>
+  <img width="200" src="https://github.com/AleksandrSmirnov92/notepad-canvas/assets/83553039/6afbed1d-2d24-4fe8-bae1-f149cac437ac">
 - My latest project on Vue3 [Elevator](https://github.com/AleksandrSmirnov92/elevatorTestProjectVue)
 
 - My latest project on Next.js [MeteorApp](https://github.com/AleksandrSmirnov92/meteorApp)
