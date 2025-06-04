@@ -5,7 +5,7 @@ I specialize in JavaScript, and love working with frontend frameworks like React
 Here on GitHub, I share some of my latest projects — feel free to check them out!
 I'm always open to collaboration, learning new things, and building great products together.
 
-Let’s connect and build something awesome. 🚀 &#11015;&#65039; &#11015;&#65039; &#11015;&#65039;  </h3> 
+🚀 &#11015;&#65039; &#11015;&#65039; &#11015;&#65039;  </h3> 
 
 
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*-tOldEbfjijxn9VqZeULqg.gif"/>
