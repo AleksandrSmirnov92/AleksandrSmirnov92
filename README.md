@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksandr Smirnov</h1>
 <h3 align="center">Hi, I'm a web developer with experience building modern, fast, and user-friendly web applications.
-I specialize in JavaScript, and love working with frontend frameworks like React and Vue. Recently, I've also been exploring the backend side, working with Node.js and C# (ASP.NET Core).
+I specialize in JavaScript, TypeScript, and love working with frontend frameworks like React and Vue. Recently, I've also been exploring the backend side, working with Node.js and C# (ASP.NET Core).
 
 Here on GitHub, I share some of my latest projects — feel free to check them out!
 I'm always open to collaboration, learning new things, and building great products together.
